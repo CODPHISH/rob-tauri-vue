@@ -66,7 +66,7 @@ const columns = createColumns({
 </script>
 
 <template>
-  <div style="width: 100vw; height: 100vh">
+  <div>
     <n-data-table :columns="columns" :data="data" :bordered="false" />
   </div>
 </template>
