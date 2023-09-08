@@ -22,6 +22,9 @@ devDependencies:
   '@types/node':
     specifier: ^20.5.9
     version: 20.5.9
+  '@vicons/fluent':
+    specifier: ^0.12.0
+    version: 0.12.0
   '@vicons/ionicons5':
     specifier: ^0.12.0
     version: 0.12.0
@@ -522,6 +525,10 @@ packages:
 
   /@types/node@20.5.9:
     resolution: {integrity: sha512-PcGNd//40kHAS3sTlzKB9C9XL4K0sTup8nbG5lC14kzEteTNuAFh9u5nA0o5TWnSG2r/JNPRXFVcHJIIeRlmqQ==}
+    dev: true
+
+  /@vicons/fluent@0.12.0:
+    resolution: {integrity: sha512-ATCiqPuiJ6RI5GBlD3BIpZ9Xw4MsCA4RpI5oR6MCti4quS4mX1Gp6N74FCzw7lgOj+80rV4HMKhZTVInwimpVQ==}
     dev: true
 
   /@vicons/ionicons5@0.12.0:

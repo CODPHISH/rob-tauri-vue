@@ -18,5 +18,6 @@ declare module 'vue' {
     NPopselect: typeof import('naive-ui')['NPopselect']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    TitleBar: typeof import('./components/TitleBar/index.vue')['default']
   }
 }

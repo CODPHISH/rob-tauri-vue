@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen bg-[#ebebeb] flex flex-col items-center pt-4 pb-4">
+  <div class="h-screen bg-[#ebebeb] flex flex-col items-center pb-4 pt-10">
     <div>
       <n-avatar
         round
